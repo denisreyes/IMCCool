@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#f72d52</color>
+    <color name="fondoBoton">#1c1f32</color>
+    <color name="fondobtnFM">#1d1f33</color>
+    <color name="fondoApp">#0c0923</color>
+    <color name="fondoTarjetas">#111428</color>
+    <color name="colorTextos">#81838d</color>
+    <color name="seekbar">#f72d52</color>
+    <color name="fondoResults">#1c1e32</color>
+    <color name="textoVerde">#22da77</color>
+    <color name="guardar">#181a2e</color>
+</resources>
